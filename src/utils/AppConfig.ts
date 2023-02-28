@@ -1,8 +1,7 @@
 export const AppConfig = {
   site_name: 'ByteRadarConsulting',
   title: 'ByteRadarConsulting',
-  description:
-    'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
+  description: 'this is a great city',
   url: 'https://byteradarconsulting.com',
   locale: 'en',
   author: 'luke',
