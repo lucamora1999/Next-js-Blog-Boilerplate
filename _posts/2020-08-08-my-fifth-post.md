@@ -1,6 +1,6 @@
 ---
-title: 'My fifth post'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+title: 'My First Blog'
+description: How I become a consultant.
 date: '2020-08-08'
 modified_date: '2020-08-08'
 image: /assets/images/posts/random-img.jpg
